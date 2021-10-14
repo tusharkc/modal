@@ -1,0 +1,50 @@
+@media (max-width: 1540px) and (min-width: 501px) {
+  .modal_image {
+    width: 317px;
+  }
+
+  .modal_content {
+    padding: 30px;
+    padding-left: 46px;
+    line-height: 35px;
+  }
+
+  .modal_body {
+    background-color: white;
+  }
+
+  .modal_cta {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 500px) and (min-width: 100px) {
+  .modal_image {
+    width: 100%;
+  }
+
+  h5 {
+    font-size: 16px;
+    line-height: 18px;
+    padding-top: 5px;
+  }
+
+  h3 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .modal_content {
+    padding: 15px;
+  }
+
+  .modal_body {
+    background-color: white;
+    width: 200px;
+    margin-right: 200px;
+  }
+
+  .modal_cta {
+    margin-top: 15px;
+  }
+}

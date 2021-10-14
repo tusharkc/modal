@@ -1,0 +1,99 @@
+// @media (max-width: 1440px) and (min-width: 501px) {
+//   .section_box {
+//     background-color: rgb(255, 255, 255);
+//     width: 623px;
+//     height: 387px;
+//     padding: 77px 0px 0px 95px;
+//     border-radius: 5px;
+//   }
+
+//   .section_image {
+//     height: 387px;
+//     width: 271px;
+//     margin-right: 60px;
+//     margin-left: 163px;
+//   }
+
+//   .section_content {
+//     width: 428px;
+//   }
+
+//   .section_body {
+//     background-color: #f4f4f4;
+//     margin-top: 45px;
+//     width: 100vw;
+//     height: 100vh;
+//   }
+
+//   .heading {
+//     padding-top: 45px;
+//     margin-bottom: 45px;
+//     width: 100vw;
+//     text-align: center;
+//   }
+// }
+
+// @media only screen and (max-width: 500px) {
+//   .section_box {
+//     background-color: rgb(255, 255, 255);
+//     width: 623px;
+//     height: 387px;
+//     padding: 25px 0px 0px 5px;
+//     border-radius: 5px;
+//   }
+
+//   .section_image {
+//     height: 345px;
+//     width: 245px;
+//     margin-left: 80px;
+//   }
+
+//   .section_content {
+//     width: 400px;
+//   }
+
+//   .section_body {
+//     margin-top: 45px;
+//     width: 100vw;
+//     height: 100vh;
+//   }
+
+//   .heading {
+//     // padding-top: 45px;
+//     margin: 20px;
+//     width: 100vw;
+//     text-align: center;
+//   }
+// }
+
+@media (max-width: 1440px) and (min-width: 200px) {
+  .counsellers_img {
+    width: 100%;
+  }
+
+  .section_content {
+    margin: 20px;
+    margin-top: 50px;
+  }
+  .heading {
+    width: 100vw;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+}
+
+// @media (max-width: 768px) {
+//   .counsellers_img {
+//     width: 130%;
+//     margin-top: 50px;
+//   }
+//   .section_content {
+//     margin: 20px;
+//     margin-top: 50px;
+//   }
+//   .heading {
+//     width: 100vw;
+//     margin-bottom: 10px;
+//     text-align: center;
+//   }
+// }
